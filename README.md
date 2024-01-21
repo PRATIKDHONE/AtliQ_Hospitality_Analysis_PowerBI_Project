@@ -22,4 +22,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-Dataset/mock up dashboard_atliq grands.png
+https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/blob/main/Resources/data_model_view.png
+
+
