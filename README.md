@@ -14,3 +14,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 (https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/blob/main/Resources/data_model_view.png)
 (https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/c8c5489f-43ae-4bff-ae06-bf8e5776a626)
+
+# Thanks For Watching
+
+
+![thank-you-for-watching-text-in-dialog-box-and-black-background-free-video](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/a673b50b-5c80-43ee-9ef1-361a0d443901)
