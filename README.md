@@ -11,3 +11,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - [x] Create the metrics according to the metric list.
 - [x] Create a dashboard according to the mock-up provided by stakeholders.
 - [x] Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+(https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/blob/main/Resources/data_model_view.png)
