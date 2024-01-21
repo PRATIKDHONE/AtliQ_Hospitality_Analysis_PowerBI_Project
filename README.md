@@ -12,21 +12,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - [x] Create a dashboard according to the mock-up provided by stakeholders.
 - [x] Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-(https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/blob/main/Resources/data_model_view.png)
-(https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/c8c5489f-43ae-4bff-ae06-bf8e5776a626)
-![data_model_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/350a9696-0dbb-43c1-b51f-a0bf03b7eef8)
+## Provided Mock-up Dashboard
+
+![mock up dashboard_atliq grands](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/d08fd964-9de4-44a0-b44d-4198cbde50fd)
 
 
 
 
 
-# Thanks For Watching
+
+# Data Model View
+
+![data_model_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/e9a62d34-ea00-4c9a-8bb6-e690f388099d)
 
 
-![thank-you-for-watching-text-in-dialog-box-and-black-background-free-video](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/a673b50b-5c80-43ee-9ef1-361a0d443901)
 
 
 
-https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/blob/main/Resources/data_model_view.png
+# Final View of AtliQ Hospitylity Analysis
 
 
+![overall_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/50721a07-bd76-47e6-8d67-57f572e316f1)
