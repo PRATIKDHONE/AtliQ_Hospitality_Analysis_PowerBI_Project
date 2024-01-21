@@ -19,3 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 ![thank-you-for-watching-text-in-dialog-box-and-black-background-free-video](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/a673b50b-5c80-43ee-9ef1-361a0d443901)
+
+
+
+Dataset/mock up dashboard_atliq grands.png
