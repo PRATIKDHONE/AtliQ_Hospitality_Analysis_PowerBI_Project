@@ -21,6 +21,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
+
+
+
+
+
+
+
+
 # Data Model View
 
 ![data_model_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/e9a62d34-ea00-4c9a-8bb6-e690f388099d)
@@ -29,7 +37,18 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-# Final View of AtliQ Hospitylity Analysis
+
+
+
+
+
+
+
+
+
+
+
+# Final View of AtliQ Hospitality Analysis
 
 
 ![overall_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/50721a07-bd76-47e6-8d67-57f572e316f1)
