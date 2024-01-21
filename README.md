@@ -54,7 +54,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![overall_view](https://github.com/PRATIKDHONE/AtliQ_Hospitality_Analysis_PowerBI_Project/assets/123533591/50721a07-bd76-47e6-8d67-57f572e316f1)
 
 
+# Important Links :
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk4NGVmOGQtNzIyYy00ZTU5LWFhNDYtYjVmZGY0MTA3YmZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-Link to Interactive Dashboard_(https://app.powerbi.com/view?r=eyJrIjoiNTk4NGVmOGQtNzIyYy00ZTU5LWFhNDYtYjVmZGY0MTA3YmZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
-
-Link to Presentation Video (https://www.linkedin.com/posts/pratik-dhone-295276263_codebasics-codebasicsresumechallenge-hospitality-activity-7154832220459851776-iqsU?utm_source=share&utm_medium=member_desktop)_
+Link to [Presentation Video](https://www.linkedin.com/posts/pratik-dhone-295276263_codebasics-codebasicsresumechallenge-hospitality-activity-7154832220459851776-iqsU?utm_source=share&utm_medium=member_desktop)_
